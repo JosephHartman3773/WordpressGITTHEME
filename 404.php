@@ -12,7 +12,7 @@ get_header();
 	<div id="primary" class="content-area">	
 	
 	<img class="what-ever" src="<?php bloginfo('template_directory');
-	?>/jhartman18/wordpress/wp-content/themes/thedude/assets/images/10.jpg" border="0" alt="">
+	?>/jhartman18/wordpress/wp-content/themes/WordpressGITTHEME/assets/images/10.jpg" border="0" alt="">
 	 
 	 
 
