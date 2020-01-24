@@ -9,8 +9,7 @@
 
 get_header();
 ?>
-	<img class="what-ever" src="<?php bloginfo('template_directory');
-	 ?>/Assests/images/1.jpg" border="0" alt="">
+	
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 
