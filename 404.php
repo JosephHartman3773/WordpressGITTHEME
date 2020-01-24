@@ -12,7 +12,7 @@ get_header();
 	<div id="primary" class="content-area">
 	
 	<img class="what-ever" src="<?php bloginfo('template_directory');
-	 ?>/assets/images/1.jpg" border="0" alt="">
+	 ?>/images/1.jpg" border="0" alt="">
 
 	</div><!-- #primary -->
 
