@@ -13,7 +13,9 @@ get_header();
 	
 	
 	 
-	 <img src="https://i.ytimg.com/vi/qD2LW6naK-g/maxresdefault.jpg" alt="SB" style="width:700px">
+	 <img src="https://i.ytimg.com/vi/qD2LW6naK-g/maxresdefault.jpg" alt="SB">
+
+	
 
 
 	</div><!-- #primary -->
