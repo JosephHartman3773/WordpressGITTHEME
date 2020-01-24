@@ -19,7 +19,8 @@ get_header();
 				</header><!-- .page-header -->
 
 				<div class="page-content">
-					<img src="jhartman18/wordpress/wp-content/themes/WordpressGITTHEME/images/Assests/1.jpg">
+					<img src="wp-content/themes/WordpressGITTHEME/images/Assests/1.jpg">
+					
 					<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'thedude' ); ?></p>
 
 					<?php
