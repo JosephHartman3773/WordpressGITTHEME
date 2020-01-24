@@ -14,7 +14,7 @@ get_header();
 	<img class="what-ever" src="<?php bloginfo('template_directory');
 	 ?>/assets/images/10.jpg" border="0" alt="">
 	 
-	 <img src="https://i.ytimg.com/vi/qD2LW6naK-g/maxresdefault.jpg">
+	 <img src="https://i.ytimg.com/vi/qD2LW6naK-g/maxresdefault.jpg" alt="SB" style="width:700px">
 
 
 	</div><!-- #primary -->
