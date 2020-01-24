@@ -11,7 +11,8 @@ get_header();
 ?>
 	<div id="primary" class="content-area">
 	
-	<img class="imageCh" src="<?php bloginfo('template_directory'); ?>/images/10.jpg" border="0" alt="">
+	<img class="what-ever" src="<?php bloginfo('template_directory');
+	 ?>/images/10.jpg" border="0" alt="">
 	 
 	 <img src="jhartman18/wordpress/wp-content/themes/WordpressGITTHEME/images/10.jpg">
 
