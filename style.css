@@ -988,8 +988,9 @@ object {
 	background-image: image("1.jpg");
 }
 .imageWPC{
-	text-align: center;
+	text-align: center;	
+}
+.WP404C{
 	padding: 350px;
-	width: 944px;
-	height: 619px;
+
 }
