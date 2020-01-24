@@ -11,9 +11,9 @@ get_header();
 ?>
 	<div id="primary" class="content-area">	
 	
-	<img class="what-ever" src="<?php bloginfo('template_directory');
-	?>/jhartman18/wordpress/wp-content/themes/WordpressGITTHEME/assets/images/10.jpg" border="0" alt="">
-	 
+	<h1><strong>404 Page, Page Not Found</strong></h1>
+	<img class="imageWP" src="<?php bloginfo('template_directory');
+	 ?>/assets/images/10.png" border="0" alt="">
 	 
 
 
