@@ -10,16 +10,17 @@
 get_header();
 ?>
 	<img class="what-ever" src="<?php bloginfo('template_directory');
-			 ?>/assets/images/1.jpg" border="0" alt="">
-
+	 ?>/assets/images/1.jpg" border="0" alt="">
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
+
 			<section class="error-404 not-found">
 				<header class="page-header">
 					<h1 class="page-title"><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', 'thedude' ); ?></h1>
 				</header><!-- .page-header -->
 
 				<div class="page-content">
+					<img src="jhartman18/wordpress/wp-content/themes/WordpressGITTHEME/images/assets/1.jpg">
 					<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'thedude' ); ?></p>
 
 					<?php
