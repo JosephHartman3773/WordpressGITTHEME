@@ -9,7 +9,8 @@
 
 get_header();
 ?>
-	
+	<img class="what-ever" src="<?php bloginfo('template_directory');
+	 ?>/Assests/images/1.jpg" border="0" alt="">
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 
@@ -19,8 +20,6 @@ get_header();
 				</header><!-- .page-header -->
 
 				<div class="page-content">
-					<img src="wp-content/themes/WordpressGITTHEME/Assests/images/1.jpg">
-					
 					<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'thedude' ); ?></p>
 
 					<?php
