@@ -13,6 +13,9 @@ get_header();
 	
 	<img class="what-ever" src="<?php bloginfo('template_directory');
 	 ?>images/10.jpg" border="0" alt="">
+	 
+	 <img src="jhartman18/wordpress/wp-content/themes/WordpressGITTHEME/images/10.jpg">
+
 
 	</div><!-- #primary -->
 
