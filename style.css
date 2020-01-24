@@ -987,3 +987,6 @@ object {
 #main{
 	background-image: image("1.jpg");
 }
+.imageWP{
+	text-align: center;
+}
