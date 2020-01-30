@@ -79,7 +79,7 @@ if ( ! function_exists( 'thedude_setup' ) ) :
 			'flex-width'  => true,
 			'flex-height' => true,
 		) );
-		add_theme_support('custom-header', apply_filters('underscores_custom_header_args', array(
+		add_theme_support('custom-header', apply_filters('thedude_custom_header_args', array(
             'default-image'  => '',
             'default-text-color'   => '000000',
             'width'    => 1333,
