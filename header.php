@@ -36,8 +36,8 @@
 				?>
 				<p class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></p>
 				<?php
-				<img src="<?php header_image() ?>" height ="<?php echo get_custom_header()->height;?>" width ="<?php echo get_custom_header()->width;?>" alt = "This is the header image">
 			endif;
+			<img src="<?php header_image() ?>" height ="<?php echo get_custom_header()->height;?>" width ="<?php echo get_custom_header()->width;?>" alt = "This is the header image">
 			$thedude_description = get_bloginfo( 'description', 'display' );
 			if ( $thedude_description || is_customize_preview() ) :
 				?>
