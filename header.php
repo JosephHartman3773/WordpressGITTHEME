@@ -42,6 +42,7 @@
 				?>
 				<p class="site-description"><?php echo $thedude_description; /* WPCS: xss ok. */ ?></p>
 			<?php endif; ?>
+			<img src="<?php header_image() ?>" height ="<?php echo get_custom_header()->height;?>" width ="<?php echo get_custom_header()->width;?>" alt = "This is the header image">
 		</div><!-- .site-branding -->
 
 		<nav id="site-navigation" class="main-navigation">
@@ -53,7 +54,7 @@
 			) );
 			?>
 		</nav><!-- #site-navigation 2 -->
-        <img src="<?php header_image() ?>" height ="<?php echo get_custom_header()->height;?>" width ="<?php echo get_custom_header()->width;?>" alt = "This is the header image">
+       
     </header><!-- #masthead -->
     <div id="content" class="site-content"`>
 	
